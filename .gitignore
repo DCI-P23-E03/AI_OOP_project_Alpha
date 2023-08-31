@@ -1,0 +1,4 @@
+api_key.py
+venv/
+env/
+__pycache__/
